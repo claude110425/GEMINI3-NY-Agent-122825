@@ -1,0 +1,7 @@
+{
+  "name": "FDA 510(k) Agentic Reviewer",
+  "description": "A comprehensive agentic AI system for FDA officers to conduct medical device 510(k) reviews, featuring intelligent document transformation, comparison, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
